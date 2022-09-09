@@ -1,4 +1,4 @@
-# GodotVisualStudioStub
+# Godot Visual Studio Stub 🎫
 
 ![Deploy](https://github.com/Fractural/GodotVisualStudioStub/actions/workflows/deploy.yml/badge.svg)
 
